@@ -1,0 +1,9 @@
+model\jdbcTest.class
+model\proxyTest.class
+bean\product.class
+mapper\userinfoMapper.class
+model\Subject.class
+model\InvocationHandlerImpl.class
+model\RealSubject.class
+model\userinfo.class
+model\MybatisTest.class
